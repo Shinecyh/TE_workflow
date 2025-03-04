@@ -1,7 +1,7 @@
 # Terminator prediction and termination efficiency calculation pipeline
 ![](./Pipeline.png)
 ## Requeirements
-* transterhp
+* transtermhp
 * fastp
 * hisat2
 * samtools
