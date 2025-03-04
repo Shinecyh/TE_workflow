@@ -84,7 +84,7 @@ The ```-c```option is used to specify the terminator BED file output prefix, whi
 
 The ```-s```option is used to specify the genome sequence which is used to amplify terminator through PCR. The primer3-py using this sequence as template sequence to design best primer for PCR.
 
-The ```-s```option is used to specify the location of transcriptional termination sites (TTSs).TTS name, strand and location is septated by TAB:
+The ```-s```option is used to specify the location of transcriptional termination sites (TTSs). TTS name, strand and location is septated by TAB:
 ```text
 TERM_0001	-	3657
 TERM_0003	-	8304
